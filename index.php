@@ -19,7 +19,26 @@
   </head>
   <body>
     <div class="container">
-
+		<div class="row show">
+			<div class="col-md-12">
+				p
+			</div>
+			<div class="col-md-4">
+				p
+			</div>
+			<div class="col-md-5">
+				p
+			</div>
+			<div class="col-md-3">
+				p
+			</div>
+			<div class="col-md-7">
+				p
+			</div>
+			<div class="col-md-5">
+				p
+			</div>
+		</div>
 	</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
